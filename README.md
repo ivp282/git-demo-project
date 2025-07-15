@@ -1,2 +1,2 @@
 # Git Demo Project
-Это строка из ветки main
+Конфликт разрешен, изменения в main и feature/login успешно объединены
